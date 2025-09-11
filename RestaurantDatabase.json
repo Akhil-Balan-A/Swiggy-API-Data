@@ -603,7 +603,7 @@
         "isVeg": false,
         "offer": 25,
         "priceStartsFrom": 180,
-        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/8/31/fa2b070a-7908-4ac7-b66f-f63633284c0d_951058.jpg",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/ftl9axrdkknn4jozwlzt",
         "alt": "Manna Restaurant",
         "place": "Panampilly Nagar",
         "Menu":[
@@ -1185,8 +1185,8 @@
       },
       {
         "id": 7,
-        "name": "Bakery World",
-        "cuisines": "Bakery, Ice Cream, Snacks",
+        "name": "Ashok bhavan ",
+        "cuisines": "South Indian, Fast Food",
         "rating": 4.4,
         "deliveryTime": "30-45 mins",
         "minDeliveryTime": 30,
@@ -1194,8 +1194,8 @@
         "isVeg": true,
         "offer": 12,
         "priceStartsFrom": 160,
-        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/mt2aggiscfl3yviatwng",
-        "alt": "Bakery World",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/6/27/9e50d6c6-7da6-4136-a70b-2578c27b7acf_fe51bfa1-aada-4997-89b7-4cc65dcdd46c.JPG",
+        "alt": "Ashok bhavan ",
         "place": "Parasia Road",
         "Menu":[
           {
@@ -1208,175 +1208,175 @@
             "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+            "dishId":2,
+            "name":"Gobi Manchurian (Dry)",
+            "price":127,
             "isVeg":true,
             "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "description":"Indo Chinese appetizer made with deep fried battered gobi florets tossed in Chinese Manchurian sauces.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/pzbkzoxnqxm7dt3mjwps"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+            "dishId":3,
+            "name":"Gobi Manchurian",
+            "price":115,
             "isVeg":true,
             "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "description":"A delectable combination of flavors and textures, this veggie Main Course will tantalize your taste buds with its mouthwatering appeal.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/72293f258055bbc256c14f54bcba0aa0"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+            "dishId":4,
+            "name":"Paneer Tikka",
+            "price":144,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.7,
+            "description":"Perfectly marinated cottage cheeese cubes roasted to perfection in tandoor along with onions and bell peppers.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/51568ad40c0032ea8330253ab894681b"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
+             "dishId":5,
+            "name":"Kadai Paneer",
             "price":132,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.7,
+            "description":"Kadaai paneer is a delicious Indian vegetarian dish comprising of paneer cooked in a gravy flavored with a special kadai masala.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/vpiqqk7ihurewzk9rqkm"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":6,
+            "name":"Chilli Gobi (Dry)",
+            "price":115,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"A delectable vegetarian delight with a tantalizing blend of flavors and textures, perfect for a satisfying main course option.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/kygsirtsrgdrpw7wb7zb"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":7,
+            "name":"Chilli Paneer (Dry)",
+            "price":150,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"Chilli paneer is a popular Indo-Chinese starter made by seasoning fried Indian cottage cheese aka paneer in chilli sauce.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/m5hoyx38vm8uwczbvypy"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":8,
+            "name":"Aloo Gobi",
+            "price":104,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.6,
+            "description":"A flavorful and comforting main course featuring a blend of potatoes and cauliflower.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/kzu8n7vkglcfjo4tbxss"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":9,
+            "name":"Masala Dosa",
+            "price":68,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"A flavorful South Indian delicacy with a crispy and golden exterior, encasing a delectable filling, perfect for breakfast enthusiasts.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/l56ly1rnxhq4t8eaujig"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":10,
+            "name":"Ghee Roast",
+            "price":69,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"A mouthwatering vegetarian delight packed with rich flavors and a golden crust.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/cose1gvlxphmsuzl7rml"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":11,
+            "name":"Onion Uthappam",
+            "price":69,
             "isVeg":true,
             "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "description":" Dosa with onions mixed into the batter and spread to a thick consistency served with 3 types of flavorful chutney and sambhar.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/iepy5bh25pynxqleauh5"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":12,
+            "name":"Chilli Paratha",
+            "price":86,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.3,
+            "description":"A flavorsome and enticing Indian flatbread filled with delectable goodness, perfect for a satisfying and hearty main course experience.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/fe3f5fc3-5e51-43ac-87b5-54be17d57897_e70e046e-e402-40c8-82f3-27f5833cca1a.jpeg"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":13,
+            "name":"Channa Masala",
+            "price":92,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.4,
+            "description":"A flavorful and aromatic Indian delicacy with tender chickpeas in a rich tomato-based gravy.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/18/8034cc4b-408e-4400-adc5-0125554365d7_eee26ba2-e6e1-48d7-a836-2a1e7ae686d4.JPG"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":14,
+            "name":"Channa Bhatoore",
+            "price":81,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":5.0,
+            "description":"A flavorful and aromatic Indian delicacy with tender chickpeas in a rich tomato-based gravy with batoore.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/fd2a6dba-3b26-480d-81f0-5f2f5bf8aa01_ecb00957-d852-47d4-bfee-c807ae245b14.jpg"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":15,
+            "name":"Chapathi Set",
+            "price":63,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.1,
+            "description":"[2 Pcs] Round, unleavened flatbreads made with whole wheat flour",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/19906d1f-374f-46ab-8dca-de67d3f5a3a3_5ec3bc32-4f0d-4fe8-b8fb-e6f0b4b8fd08.jpg_compressed"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":16,
+            "name":"Poori Masala",
+            "price":63,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.6,
+            "description":"Fluffy fried bread served with flavorful potato curry, a classic South Indian favorite.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/12edd50f-a086-4304-920c-b5175309cb8f_03a342aa-52a8-4ecc-b893-0f27fdd15731.jpg_compressed"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":17,
+            "name":"Sambar Vada",
+            "price":46,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.8,
+            "description":"A mouthwatering South Indian delicacy with a crispy vada immersed in flavorful sambar.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/2a8e6bcd-a98c-4cc4-b9aa-83ab1bb92b5f_2128bac2-daea-438b-bc0b-0cbc0e2b852b.jpg_compressed"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":18,
+            "name":"Veg Fried Rice",
+            "price":92,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"A flavorful and satisfying rice dish packed with a medley of vegetables and delightful seasonings.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/a1af5ebcdb868f3f549b253d4ea715d7"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":19,
+            "name":"Veg Biriyari",
+            "price":92,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.7,
+            "description":"A flavorful rice dish with a harmonious blend of aromatic spices and savory vegetables.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/68e57aaf4239dd1a6f612f8f807dd564"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":20,
+            "name":"Veg Noodles",
+            "price":98,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":5.0,
+            "description":"A delectable and flavorsome medley of vegetables mixed with delicate strands of noodles.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/k85tmoa9ewpme8ot8fbi"
           }
         ]
       },
@@ -1587,7 +1587,7 @@
         "maxDeliveryTime": 50,
         "isVeg": false,
         "offer": 28,
-        "priceStartsFrom": 130,
+        "priceStartsFrom": 230,
         "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/6/29/e1e77918-7eb1-476b-812a-85776b64db32_300609.jpg",
         "alt": "Ramiz",
         "place": "Chhindwara Locality",
@@ -1973,17 +1973,17 @@
       },
       {
         "id": 11,
-        "name": "Sandwich King",
-        "cuisines": "Fast Food, Burgers, Beverages",
+        "name": "Brindhavan Vegetarian Restaurant",
+        "cuisines": "south Indian, Chinese",
         "rating": 4.0,
         "deliveryTime": "30-40 mins",
         "minDeliveryTime": 30,
         "maxDeliveryTime": 40,
-        "isVeg": false,
+        "isVeg": true,
         "offer": 35,
         "priceStartsFrom": 220,
-        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/3/31/cb494252-4d49-471a-9135-cfd2703ffa19_1072533.jpg",
-        "alt": "Sandwich King",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/v0md1tt3tnnrytqn1yb9",
+        "alt": "Brindhavan Vegetarian Restaurant",
         "place": "Nagpur Locality",
         "Menu":[
           {
@@ -1996,191 +1996,191 @@
             "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+            "dishId":2,
+            "name":"Gobi Manchurian (Dry)",
+            "price":127,
             "isVeg":true,
             "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "description":"Indo Chinese appetizer made with deep fried battered gobi florets tossed in Chinese Manchurian sauces.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/pzbkzoxnqxm7dt3mjwps"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+            "dishId":3,
+            "name":"Gobi Manchurian",
+            "price":115,
             "isVeg":true,
             "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "description":"A delectable combination of flavors and textures, this veggie Main Course will tantalize your taste buds with its mouthwatering appeal.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/72293f258055bbc256c14f54bcba0aa0"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+            "dishId":4,
+            "name":"Paneer Tikka",
+            "price":144,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.7,
+            "description":"Perfectly marinated cottage cheeese cubes roasted to perfection in tandoor along with onions and bell peppers.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/51568ad40c0032ea8330253ab894681b"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
+             "dishId":5,
+            "name":"Kadai Paneer",
             "price":132,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.7,
+            "description":"Kadaai paneer is a delicious Indian vegetarian dish comprising of paneer cooked in a gravy flavored with a special kadai masala.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/vpiqqk7ihurewzk9rqkm"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":6,
+            "name":"Chilli Gobi (Dry)",
+            "price":115,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"A delectable vegetarian delight with a tantalizing blend of flavors and textures, perfect for a satisfying main course option.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/kygsirtsrgdrpw7wb7zb"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":7,
+            "name":"Chilli Paneer (Dry)",
+            "price":150,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"Chilli paneer is a popular Indo-Chinese starter made by seasoning fried Indian cottage cheese aka paneer in chilli sauce.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/m5hoyx38vm8uwczbvypy"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":8,
+            "name":"Aloo Gobi",
+            "price":104,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.6,
+            "description":"A flavorful and comforting main course featuring a blend of potatoes and cauliflower.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/kzu8n7vkglcfjo4tbxss"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":9,
+            "name":"Masala Dosa",
+            "price":68,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"A flavorful South Indian delicacy with a crispy and golden exterior, encasing a delectable filling, perfect for breakfast enthusiasts.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/l56ly1rnxhq4t8eaujig"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":10,
+            "name":"Ghee Roast",
+            "price":69,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"A mouthwatering vegetarian delight packed with rich flavors and a golden crust.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/cose1gvlxphmsuzl7rml"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":11,
+            "name":"Onion Uthappam",
+            "price":69,
             "isVeg":true,
             "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "description":" Dosa with onions mixed into the batter and spread to a thick consistency served with 3 types of flavorful chutney and sambhar.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/iepy5bh25pynxqleauh5"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":12,
+            "name":"Chilli Paratha",
+            "price":86,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.3,
+            "description":"A flavorsome and enticing Indian flatbread filled with delectable goodness, perfect for a satisfying and hearty main course experience.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/fe3f5fc3-5e51-43ac-87b5-54be17d57897_e70e046e-e402-40c8-82f3-27f5833cca1a.jpeg"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":13,
+            "name":"Channa Masala",
+            "price":92,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.4,
+            "description":"A flavorful and aromatic Indian delicacy with tender chickpeas in a rich tomato-based gravy.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/18/8034cc4b-408e-4400-adc5-0125554365d7_eee26ba2-e6e1-48d7-a836-2a1e7ae686d4.JPG"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":14,
+            "name":"Channa Bhatoore",
+            "price":81,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":5.0,
+            "description":"A flavorful and aromatic Indian delicacy with tender chickpeas in a rich tomato-based gravy with batoore.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/fd2a6dba-3b26-480d-81f0-5f2f5bf8aa01_ecb00957-d852-47d4-bfee-c807ae245b14.jpg"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":15,
+            "name":"Chapathi Set",
+            "price":63,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.1,
+            "description":"[2 Pcs] Round, unleavened flatbreads made with whole wheat flour",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/19906d1f-374f-46ab-8dca-de67d3f5a3a3_5ec3bc32-4f0d-4fe8-b8fb-e6f0b4b8fd08.jpg_compressed"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":16,
+            "name":"Poori Masala",
+            "price":63,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.6,
+            "description":"Fluffy fried bread served with flavorful potato curry, a classic South Indian favorite.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/12edd50f-a086-4304-920c-b5175309cb8f_03a342aa-52a8-4ecc-b893-0f27fdd15731.jpg_compressed"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":17,
+            "name":"Sambar Vada",
+            "price":46,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.8,
+            "description":"A mouthwatering South Indian delicacy with a crispy vada immersed in flavorful sambar.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/2a8e6bcd-a98c-4cc4-b9aa-83ab1bb92b5f_2128bac2-daea-438b-bc0b-0cbc0e2b852b.jpg_compressed"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":18,
+            "name":"Veg Fried Rice",
+            "price":92,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"A flavorful and satisfying rice dish packed with a medley of vegetables and delightful seasonings.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/a1af5ebcdb868f3f549b253d4ea715d7"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":19,
+            "name":"Veg Biriyari",
+            "price":92,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.7,
+            "description":"A flavorful rice dish with a harmonious blend of aromatic spices and savory vegetables.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/68e57aaf4239dd1a6f612f8f807dd564"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":20,
+            "name":"Veg Noodles",
+            "price":98,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":5.0,
+            "description":"A delectable and flavorsome medley of vegetables mixed with delicate strands of noodles.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/k85tmoa9ewpme8ot8fbi"
           }
         ]
       },
       {
         "id": 12,
-        "name": "Subway",
-        "cuisines": "Fast Food, Burgers, Beverages",
-        "rating": 3.9,
+        "name": "Hotel Saravana Bhavan",
+        "cuisines": "North Indian, South Indian",
+        "rating": 4.9,
         "deliveryTime": "30-40 mins",
         "minDeliveryTime": 30,
         "maxDeliveryTime": 40,
         "isVeg": true,
         "offer": 10,
         "priceStartsFrom": 240,
-        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2025/6/12/8f9a90a5-4f89-4234-b4ed-a840580dbe52_672074.jpg",
-        "alt": "Subway",
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/mpszppmjagdumtrh6mzq",
+        "alt": "Hotel Saravana Bhavan",
         "place": "Shobha Mall",
         "Menu":[
           {
@@ -2193,175 +2193,175 @@
             "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+            "dishId":2,
+            "name":"Gobi Manchurian (Dry)",
+            "price":127,
             "isVeg":true,
             "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "description":"Indo Chinese appetizer made with deep fried battered gobi florets tossed in Chinese Manchurian sauces.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/pzbkzoxnqxm7dt3mjwps"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+            "dishId":3,
+            "name":"Gobi Manchurian",
+            "price":115,
             "isVeg":true,
             "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "description":"A delectable combination of flavors and textures, this veggie Main Course will tantalize your taste buds with its mouthwatering appeal.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/72293f258055bbc256c14f54bcba0aa0"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+            "dishId":4,
+            "name":"Paneer Tikka",
+            "price":144,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.7,
+            "description":"Perfectly marinated cottage cheeese cubes roasted to perfection in tandoor along with onions and bell peppers.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/51568ad40c0032ea8330253ab894681b"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
+             "dishId":5,
+            "name":"Kadai Paneer",
             "price":132,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.7,
+            "description":"Kadaai paneer is a delicious Indian vegetarian dish comprising of paneer cooked in a gravy flavored with a special kadai masala.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/vpiqqk7ihurewzk9rqkm"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":6,
+            "name":"Chilli Gobi (Dry)",
+            "price":115,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"A delectable vegetarian delight with a tantalizing blend of flavors and textures, perfect for a satisfying main course option.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/kygsirtsrgdrpw7wb7zb"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":7,
+            "name":"Chilli Paneer (Dry)",
+            "price":150,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"Chilli paneer is a popular Indo-Chinese starter made by seasoning fried Indian cottage cheese aka paneer in chilli sauce.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/m5hoyx38vm8uwczbvypy"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":8,
+            "name":"Aloo Gobi",
+            "price":104,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.6,
+            "description":"A flavorful and comforting main course featuring a blend of potatoes and cauliflower.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/kzu8n7vkglcfjo4tbxss"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":9,
+            "name":"Masala Dosa",
+            "price":68,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"A flavorful South Indian delicacy with a crispy and golden exterior, encasing a delectable filling, perfect for breakfast enthusiasts.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/l56ly1rnxhq4t8eaujig"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":10,
+            "name":"Ghee Roast",
+            "price":69,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"A mouthwatering vegetarian delight packed with rich flavors and a golden crust.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/cose1gvlxphmsuzl7rml"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":11,
+            "name":"Onion Uthappam",
+            "price":69,
             "isVeg":true,
             "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "description":" Dosa with onions mixed into the batter and spread to a thick consistency served with 3 types of flavorful chutney and sambhar.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/iepy5bh25pynxqleauh5"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":12,
+            "name":"Chilli Paratha",
+            "price":86,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.3,
+            "description":"A flavorsome and enticing Indian flatbread filled with delectable goodness, perfect for a satisfying and hearty main course experience.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/fe3f5fc3-5e51-43ac-87b5-54be17d57897_e70e046e-e402-40c8-82f3-27f5833cca1a.jpeg"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":13,
+            "name":"Channa Masala",
+            "price":92,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.4,
+            "description":"A flavorful and aromatic Indian delicacy with tender chickpeas in a rich tomato-based gravy.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/1/18/8034cc4b-408e-4400-adc5-0125554365d7_eee26ba2-e6e1-48d7-a836-2a1e7ae686d4.JPG"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":14,
+            "name":"Channa Bhatoore",
+            "price":81,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":5.0,
+            "description":"A flavorful and aromatic Indian delicacy with tender chickpeas in a rich tomato-based gravy with batoore.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/fd2a6dba-3b26-480d-81f0-5f2f5bf8aa01_ecb00957-d852-47d4-bfee-c807ae245b14.jpg"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":15,
+            "name":"Chapathi Set",
+            "price":63,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.1,
+            "description":"[2 Pcs] Round, unleavened flatbreads made with whole wheat flour",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/19906d1f-374f-46ab-8dca-de67d3f5a3a3_5ec3bc32-4f0d-4fe8-b8fb-e6f0b4b8fd08.jpg_compressed"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":16,
+            "name":"Poori Masala",
+            "price":63,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.6,
+            "description":"Fluffy fried bread served with flavorful potato curry, a classic South Indian favorite.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/12edd50f-a086-4304-920c-b5175309cb8f_03a342aa-52a8-4ecc-b893-0f27fdd15731.jpg_compressed"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":17,
+            "name":"Sambar Vada",
+            "price":46,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.8,
+            "description":"A mouthwatering South Indian delicacy with a crispy vada immersed in flavorful sambar.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2024/3/12/2a8e6bcd-a98c-4cc4-b9aa-83ab1bb92b5f_2128bac2-daea-438b-bc0b-0cbc0e2b852b.jpg_compressed"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":18,
+            "name":"Veg Fried Rice",
+            "price":92,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.9,
+            "description":"A flavorful and satisfying rice dish packed with a medley of vegetables and delightful seasonings.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/a1af5ebcdb868f3f549b253d4ea715d7"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":19,
+            "name":"Veg Biriyari",
+            "price":92,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":4.7,
+            "description":"A flavorful rice dish with a harmonious blend of aromatic spices and savory vegetables.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/68e57aaf4239dd1a6f612f8f807dd564"
           },
           {
-             "dishId":1,
-            "name":"Paneer Butter Masala",
-            "price":132,
+             "dishId":20,
+            "name":"Veg Noodles",
+            "price":98,
             "isVeg":true,
-            "rating":4.5,
-            "description":"A flavourful preparataion with soft paneer cubes simmered in a rich and thick and tomato and onion based gravy served with butter on top",
-            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/1a9c4a96bf6a8129958f36c88a57e927"
+            "rating":5.0,
+            "description":"A delectable and flavorsome medley of vegetables mixed with delicate strands of noodles.",
+            "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/k85tmoa9ewpme8ot8fbi"
           }
         ]
       },
