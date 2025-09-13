@@ -4449,7 +4449,121 @@
         "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Desserts.png",
         "alt": "desserts",
         "cuisine": "Desserts"
-      }]
+      }],
+    "team": [
+    {
+      "id": 1,
+      "name": "Akhil Balan",
+      "role": "Frontend Developer",
+      "experience": "2 years",
+      "skills": ["Web Development", "React.js", "DevOps"],
+      "contact": {
+        "phone": "123-456-7890",
+        "email": "akhil121@gmail.com"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "role": "Backend Developer",
+      "experience": "3 years",
+      "skills": ["Node.js", "Express", "MongoDB"],
+      "contact": {
+        "phone": "987-654-3210",
+        "email": "priya.sharma@example.com"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Ravi Kumar",
+      "role": "UI/UX Designer",
+      "experience": "4 years",
+      "skills": ["Figma", "Adobe XD", "Wireframing"],
+      "contact": {
+        "phone": "555-222-1111",
+        "email": "ravi.kumar@example.com"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Neha Verma",
+      "role": "Project Manager",
+      "experience": "5 years",
+      "skills": ["Agile", "Scrum", "Team Management"],
+      "contact": {
+        "phone": "444-333-2222",
+        "email": "neha.verma@example.com"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Ankit Mehta",
+      "role": "Mobile App Developer",
+      "experience": "3 years",
+      "skills": ["Flutter", "React Native", "Kotlin"],
+      "contact": {
+        "phone": "777-888-9999",
+        "email": "ankit.mehta@example.com"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Sneha Iyer",
+      "role": "QA Engineer",
+      "experience": "2.5 years",
+      "skills": ["Manual Testing", "Selenium", "Cypress"],
+      "contact": {
+        "phone": "222-333-4444",
+        "email": "sneha.iyer@example.com"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Mohammed Ali",
+      "role": "DevOps Engineer",
+      "experience": "4 years",
+      "skills": ["AWS", "Docker", "Kubernetes", "CI/CD"],
+      "contact": {
+        "phone": "666-555-4444",
+        "email": "mohammed.ali@example.com"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Kavya Reddy",
+      "role": "Content Strategist",
+      "experience": "3 years",
+      "skills": ["SEO", "Copywriting", "Content Marketing"],
+      "contact": {
+        "phone": "111-999-2222",
+        "email": "kavya.reddy@example.com"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Vikram Singh",
+      "role": "Data Analyst",
+      "experience": "3.5 years",
+      "skills": ["Python", "SQL", "Tableau", "Power BI"],
+      "contact": {
+        "phone": "999-888-7777",
+        "email": "vikram.singh@example.com"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Pooja Nair",
+      "role": "HR Manager",
+      "experience": "6 years",
+      "skills": ["Recruitment", "Employee Relations", "HR Policies"],
+      "contact": {
+        "phone": "321-654-9870",
+        "email": "pooja.nair@example.com"
+      }
+    }
+  ]
+    
 }
+
 
 
