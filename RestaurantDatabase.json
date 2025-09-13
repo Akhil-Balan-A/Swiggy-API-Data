@@ -4457,6 +4457,7 @@
       "role": "Frontend Developer",
       "experience": "2 years",
       "skills": ["Web Development", "React.js", "DevOps"],
+      "image": "https://raw.githubusercontent.com/Akhil-Balan-A/Swiggy-Restaurant-Data/c04a39f1f79a4bf76c107383544a38e7a468cc7e/akhil.jpeg"
       "contact": {
         "phone": "123-456-7890",
         "email": "akhil121@gmail.com"
@@ -4564,6 +4565,7 @@
   ]
     
 }
+
 
 
 
