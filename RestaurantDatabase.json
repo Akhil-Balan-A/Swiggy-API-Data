@@ -4457,7 +4457,7 @@
       "role": "Frontend Developer",
       "experience": "2 years",
       "skills": ["Web Development", "React.js", "DevOps"],
-      "image": "https://raw.githubusercontent.com/Akhil-Balan-A/Swiggy-Restaurant-Data/c04a39f1f79a4bf76c107383544a38e7a468cc7e/akhil.jpeg"
+      "image": "https://raw.githubusercontent.com/Akhil-Balan-A/Swiggy-Restaurant-Data/refs/heads/main/Team/Akhil.jpeg",
       "contact": {
         "phone": "123-456-7890",
         "email": "akhil121@gmail.com"
@@ -4469,6 +4469,7 @@
       "role": "Backend Developer",
       "experience": "3 years",
       "skills": ["Node.js", "Express", "MongoDB"],
+      "image": "https://raw.githubusercontent.com/Akhil-Balan-A/Swiggy-Restaurant-Data/refs/heads/main/Team/Priya.jpeg",
       "contact": {
         "phone": "987-654-3210",
         "email": "priya.sharma@example.com"
@@ -4480,6 +4481,7 @@
       "role": "UI/UX Designer",
       "experience": "4 years",
       "skills": ["Figma", "Adobe XD", "Wireframing"],
+      "image": "https://raw.githubusercontent.com/Akhil-Balan-A/Swiggy-Restaurant-Data/refs/heads/main/Team/Ravi.jpeg",
       "contact": {
         "phone": "555-222-1111",
         "email": "ravi.kumar@example.com"
@@ -4491,6 +4493,7 @@
       "role": "Project Manager",
       "experience": "5 years",
       "skills": ["Agile", "Scrum", "Team Management"],
+      "image": "https://raw.githubusercontent.com/Akhil-Balan-A/Swiggy-Restaurant-Data/refs/heads/main/Team/Neha.jpeg",
       "contact": {
         "phone": "444-333-2222",
         "email": "neha.verma@example.com"
@@ -4502,6 +4505,7 @@
       "role": "Mobile App Developer",
       "experience": "3 years",
       "skills": ["Flutter", "React Native", "Kotlin"],
+      "image": "https://raw.githubusercontent.com/Akhil-Balan-A/Swiggy-Restaurant-Data/refs/heads/main/Team/Ankit.jpeg",
       "contact": {
         "phone": "777-888-9999",
         "email": "ankit.mehta@example.com"
@@ -4513,6 +4517,7 @@
       "role": "QA Engineer",
       "experience": "2.5 years",
       "skills": ["Manual Testing", "Selenium", "Cypress"],
+      "image": "https://raw.githubusercontent.com/Akhil-Balan-A/Swiggy-Restaurant-Data/refs/heads/main/Team/Sneha.jpeg",
       "contact": {
         "phone": "222-333-4444",
         "email": "sneha.iyer@example.com"
@@ -4523,7 +4528,8 @@
       "name": "Mohammed Ali",
       "role": "DevOps Engineer",
       "experience": "4 years",
-      "skills": ["AWS", "Docker", "Kubernetes", "CI/CD"],
+      "skills": ["AWS", "Docker", "Kubernetes", "CI/CD"],              
+      "image": "https://raw.githubusercontent.com/Akhil-Balan-A/Swiggy-Restaurant-Data/refs/heads/main/Team/Mohammed.jpeg",
       "contact": {
         "phone": "666-555-4444",
         "email": "mohammed.ali@example.com"
@@ -4535,6 +4541,7 @@
       "role": "Content Strategist",
       "experience": "3 years",
       "skills": ["SEO", "Copywriting", "Content Marketing"],
+      "image": "https://raw.githubusercontent.com/Akhil-Balan-A/Swiggy-Restaurant-Data/refs/heads/main/Team/Kavya.jpeg",
       "contact": {
         "phone": "111-999-2222",
         "email": "kavya.reddy@example.com"
@@ -4546,6 +4553,7 @@
       "role": "Data Analyst",
       "experience": "3.5 years",
       "skills": ["Python", "SQL", "Tableau", "Power BI"],
+      "image": "https://raw.githubusercontent.com/Akhil-Balan-A/Swiggy-Restaurant-Data/refs/heads/main/Team/Vikram.jpeg",
       "contact": {
         "phone": "999-888-7777",
         "email": "vikram.singh@example.com"
@@ -4557,6 +4565,7 @@
       "role": "HR Manager",
       "experience": "6 years",
       "skills": ["Recruitment", "Employee Relations", "HR Policies"],
+      "image": "https://raw.githubusercontent.com/Akhil-Balan-A/Swiggy-Restaurant-Data/refs/heads/main/Team/Pooja.jpeg",
       "contact": {
         "phone": "321-654-9870",
         "email": "pooja.nair@example.com"
@@ -4565,6 +4574,7 @@
   ]
     
 }
+
 
 
 
