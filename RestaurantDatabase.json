@@ -4140,6 +4140,22 @@
       },
       {
         "id": 22,
+        "name": "Delight Corner",
+        "cuisines": "Pure Veg, Healthy Food",
+        "rating": 4.8,
+        "deliveryTime": "20-30 mins",
+        "minDeliveryTime": 20,
+        "maxDeliveryTime": 30,
+        "isVeg": true,
+        "offer": 15,
+        "priceStartsFrom": 110,
+        "image": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/FOOD_CATALOG/IMAGES/CMS/2025/5/19/9df8f7c8-39c1-4f1e-a103-4f8d9b63047d_4dfa527e-b810-4c46-aab9-1b50cc2c5671.jpg",
+        "alt": "Delight Corner",
+        "place": "vitila",
+        "Menu":[]
+      },
+      {
+        "id": 23,
         "name": "Desi Zaika",
         "cuisines": "North Indian,South Indian, Chinese",
         "rating": 4.1,
@@ -4574,6 +4590,7 @@
   ]
     
 }
+
 
 
 
