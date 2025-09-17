@@ -4157,7 +4157,7 @@
       {
         "id": 23,
         "name": "Desi Zaika",
-        "cuisines": "North Indian,South Indian, Chinese",
+        "cuisines": "North Indian,South Indian,
         "rating": 4.1,
         "deliveryTime": "30-40 mins",
         "minDeliveryTime": 30,
@@ -4590,6 +4590,7 @@
   ]
     
 }
+
 
 
 
